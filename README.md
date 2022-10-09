@@ -1,7 +1,6 @@
 ### Hi I'm Zahra Najem 👋
 
-<!--
-**Zahra257/Zahra257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 I am a freshly graduate from GoMyCode Bootcamp
 currently working at Atlas Cub as a developer web also at O.control Water Technologies
@@ -9,6 +8,14 @@ I am passionate about web development
 I love converting any design to code 
 I am looking to collaborate on some web projects 
 How to reach me najemzahra3@gmail.com  
+
+
+
+
+
+
+
+
 
 const skills = {
 
