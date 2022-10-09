@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi I'm Zahra Najem 👋
 
 <!--
 **Zahra257/Zahra257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a freshly graduate from GoMyCode Bootcamp
+currently working at Atlas Cub as a developer web also at O.control Water Technologies
+I am passionate about web development
+I love converting any design to code 
+I am looking to collaborate on some web projects 
+How to reach me najemzahra3@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const skills = {
+
+  Frontend : [ Javascript, HTML, CSS, Mui, React Js, Redux, Context api, Bootstrap ],
+  Backend : [ Node/Express Js ],
+  Database :[MongoDB , MySQl] ,
+  Tools : Git/Githup, Postman, Heroku, Figma, visual studio code, Redux devTools, 
+    
+               }
+
+
+
