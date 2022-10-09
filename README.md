@@ -9,12 +9,12 @@
 * I am looking to collaborate on some web projects 
 * How to reach me najemzahra3@gmail.com  
 #
- const skills = {<br>
-               frontend : [ Javascript, HTML, CSS, Mui, React Js, Redux, Context api, Bootstrap ],
-               backend : [ Node/Express Js ], 
-               database :[ MongoDB , MySQl ] , 
-               tools : [ Git/Githup, Postman, Heroku, Figma, visual studio code, Redux devTools ], 
-                  }  
+ const skills = {
+             <br>  frontend : [ Javascript, HTML, CSS, Mui, React Js, Redux, Context api, Bootstrap ],
+             <br>  backend : [ Node/Express Js ], 
+             <br>  database :[ MongoDB , MySQl ] , 
+              <br> tools : [ Git/Githup, Postman, Heroku, Figma, visual studio code, Redux devTools ], 
+                 <br> }  
 
 
 
