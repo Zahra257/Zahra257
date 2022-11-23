@@ -13,8 +13,8 @@
  const skills = {
               frontend : [  Javascript, HTML, CSS, Mui, React Js, Redux, Context api, Bootstrap],
               backend : [ Node/Express Js ], 
-               database :[ MongoDB , MySQl ] , 
-               tools : [ Git/Githup, Postman, Heroku, Figma, visual studio code, Redux devTools ], 
+              database :[ MongoDB , MySQl ] , 
+              tools : [ Git/Githup, Postman, Heroku, Figma, visual studio code, Redux devTools ], 
                  }  
 
 ``` 
